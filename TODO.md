@@ -1,0 +1,1 @@
+- [ ] Pegue a função do `DataAnalyst\bkp\DataViz\plotly\melhore.py` e crie uma função onde você passa seu modelo os dados ~> faça um sample deles e o label e ele plota

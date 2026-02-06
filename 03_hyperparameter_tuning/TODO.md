@@ -1,0 +1,2 @@
+- [ ] Coloque todos os tipos de otimizadores aqui
+- [ ] Optuna, Baeysianos, Grid, Random, hyperopt
